@@ -2,6 +2,7 @@ require ".questions.rb"
 require "./players.rb"
 require "./score.rb"
 
+
 def math_game
   p1 = Players.new
   p2 = Players.new

@@ -10,7 +10,9 @@ class Question
     @response = nil
     @evaluation = nil
   
+    
   end
+
 
   def question_evaluator
     puts @question

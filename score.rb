@@ -1,3 +1,4 @@
+
 class Score
 
   attr_accessor :player_1, :player_2, :eval
