@@ -16,7 +16,6 @@ def math_game
 
   game_score.end_of_round
   end
-
 end
 
 math_game 
